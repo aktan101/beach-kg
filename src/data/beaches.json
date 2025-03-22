@@ -1,0 +1,300 @@
+[
+  {
+    "id": 1,
+    "name": {
+      "ru": "Пляж Иссык-Куль",
+      "en": "Issyk-Kul Beach",
+      "kg": "Ысык-Көл жээги"
+    },
+    "description": {
+      "ru": "Самый популярный пляж Кыргызстана с кристально чистой водой и потрясающими видами на горы.",
+      "en": "The most popular beach in Kyrgyzstan with crystal clear water and stunning mountain views.",
+      "kg": "Кыргызстандагы эң популярдуу жээк, тунук суусу жана тоолордун кереметтүү көрүнүшү менен."
+    },
+    "pricePerDay": 500,
+    "pricePerMonth": 12000,
+    "amenities": ["parking", "restaurants", "showers", "lifeguards", "water_sports"],
+    "cleanliness": 4.5,
+    "facilities": 4.2,
+    "accessibility": 4.8,
+    "rating": 4.7,
+    "location": {
+      "lat": 42.416150,
+      "lng": 77.185792
+    },
+    "images": ["https://kyrtag.kg/upload/iblock/194/e72570a2_6f29_4310_8638_95f32d9e0b1c.jpeg" , "https://aquarida-tour.kz/userfiles/upload/ozero/poberezhe-ozera.jpg", "https://www.atorus.ru/sites/default/files/styles/head_carousel/public/2022-08/%D0%98%D1%81%D1%81%D1%8B%D0%BA-%D0%9A%D1%83%D0%BB%D1%8C%20%D0%9A%D0%B8%D1%80%D0%B3%D0%B8%D0%B7%D0%B8%D1%8F%20%D0%BF%D0%BB%D1%8F%D0%B6%20%D1%84%D0%BE%D1%82%D0%BE%20Wikimedia%20Commons.jpg.webp?itok=_mR4YOGi"],
+    "videoUrl": "https://www.youtube.com/watch?v=example1",
+    "reviews": [
+      {
+        "author": "Алексей Иванов",
+        "rating": 5,
+        "date": "2023-07-15",
+        "text": {
+          "ru": "Прекрасное место для отдыха! Вода чистая, пляж ухоженный, много развлечений.",
+          "en": "Great place to relax! Clean water, well-maintained beach, lots of entertainment.",
+          "kg": "Эс алуу үчүн сонун жер! Таза суу, жакшы сакталган жээк, көп оюн-зооктор."
+        }
+      },
+      {
+        "author": "Мария Петрова",
+        "rating": 4,
+        "date": "2023-08-02",
+        "text": {
+          "ru": "Очень понравилось, но в высокий сезон слишком многолюдно.",
+          "en": "Really enjoyed it, but too crowded during high season.",
+          "kg": "Абдан жакты, бирок жогорку сезондо өтө эле көп эл."
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": {
+      "ru": "Пляж Чолпон-Ата",
+      "en": "Cholpon-Ata Beach",
+      "kg": "Чолпон-Ата жээги"
+    },
+    "description": {
+      "ru": "Популярный курортный пляж с золотистым песком и множеством развлечений для всей семьи.",
+      "en": "Popular resort beach with golden sand and plenty of entertainment for the whole family.",
+      "kg": "Алтын кум жана бүт үй-бүлө үчүн көптөгөн оюн-зооктору бар популярдуу курорт жээги."
+    },
+    "pricePerDay": 600,
+    "pricePerMonth": 15000,
+    "amenities": ["parking", "restaurants", "showers", "lifeguards", "water_sports", "wifi", "beach_chairs"],
+    "cleanliness": 4.3,
+    "facilities": 4.7,
+    "accessibility": 4.5,
+    "rating": 4.5,
+    "location": {
+      "lat": 42.64458200983562,
+      "lng":  77.0888891984925
+    },
+    "images": ["https://issyk-kul-rest.narod.ru/img/cholpon-ata-01.jpg","https://w-sail.com/wp-content/uploads/2022/09/plyazh.jpg", "https://cachizer3.2gis.com/reviews-photos/1fde2c46-e765-41fa-96c4-ce2c6bbde93e.jpg?w=1920"],
+    "videoUrl": "https://www.youtube.com/watch?v=example2",
+    "reviews": [
+      {
+        "author": "Дмитрий Смирнов",
+        "rating": 5,
+        "date": "2023-06-20",
+        "text": {
+          "ru": "Отличный пляж для семейного отдыха. Много развлечений для детей.",
+          "en": "Great beach for family vacations. Lots of entertainment for children.",
+          "kg": "Үй-бүлөлүк эс алуу үчүн мыкты жээк. Балдар үчүн көп оюн-зооктор."
+        }
+      },
+      {
+        "author": "Елена Козлова",
+        "rating": 4,
+        "date": "2023-07-10",
+        "text": {
+          "ru": "Хороший пляж, но цены в ресторанах высоковаты.",
+          "en": "Nice beach, but restaurant prices are a bit high.",
+          "kg": "Жакшы жээк, бирок ресторандардагы баалар бир аз жогору."
+        }
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": {
+      "ru": "Пляж Тамчи",
+      "en": "Tamchy Beach",
+      "kg": "Тамчы жээги"
+    },
+    "description": {
+      "ru": "Уютный пляж с мелкой галькой и спокойной атмосферой, идеально подходит для спокойного отдыха.",
+      "en": "Cozy beach with fine pebbles and a calm atmosphere, perfect for a relaxing vacation.",
+      "kg": "Майда таштар жана тынч атмосфера менен жайлуу жээк, тынч эс алуу үчүн идеалдуу."
+    },
+    "pricePerDay": 400,
+    "pricePerMonth": 10000,
+    "amenities": ["parking", "restaurants", "showers"],
+    "cleanliness": 4.0,
+    "facilities": 3.8,
+    "accessibility": 4.2,
+    "rating": 4.0,
+    "location": {
+      "lat": 42.5639,
+      "lng": 76.9944
+    },
+    "images": ["https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/40/27/8d/photo3jpg.jpg?w=400&h=-1&s=1", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyKm_gOna2oTc1NJUVI3g8om0nENFD72MH60BN7zBtVAr3WSqWQnDLXUvRVlKit8fXvK4&usqp=CAU", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU9wVK_SKZl-cSpKhXP5qgqPsje_ZILNw2iA&s"],
+    "videoUrl": "https://www.youtube.com/watch?v=example3",
+    "reviews": [
+      {
+        "author": "Игорь Васильев",
+        "rating": 4,
+        "date": "2023-08-05",
+        "text": {
+          "ru": "Тихое место для отдыха от городской суеты. Чистый пляж и приятная атмосфера.",
+          "en": "Quiet place to escape the city hustle. Clean beach and pleasant atmosphere.",
+          "kg": "Шаардын ызы-чуусунан качуу үчүн тынч жер. Таза жээк жана жагымдуу атмосфера."
+        }
+      },
+      {
+        "author": "Анна Соколова",
+        "rating": 3,
+        "date": "2023-07-25",
+        "text": {
+          "ru": "Неплохой пляж, но не хватает развлечений и удобств.",
+          "en": "Decent beach, but lacks entertainment and amenities.",
+          "kg": "Жаман эмес жээк, бирок оюн-зооктор жана ыңгайлуулуктар жетишсиз."
+        }
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": {
+      "ru": "Пляж Каджи-Сай",
+      "en": "Kaji-Say Beach",
+      "kg": "Кажы-Сай жээги"
+    },
+    "description": {
+      "ru": "Живописный пляж на южном берегу Иссык-Куля с потрясающими закатами и чистой водой.",
+      "en": "Picturesque beach on the southern shore of Issyk-Kul with stunning sunsets and clean water.",
+      "kg": "Ысык-Көлдүн түштүк жээгиндеги кереметтүү күн батыштары жана таза суусу менен кооз жээк."
+    },
+    "pricePerDay": 350,
+    "pricePerMonth": 8000,
+    "amenities": ["parking", "restaurants"],
+    "cleanliness": 4.2,
+    "facilities": 3.5,
+    "accessibility": 3.8,
+    "rating": 4.2,
+    "location": {
+      "lat": 42.1347,
+      "lng": 77.1708
+    },
+    "images": ["https://ic.pics.livejournal.com/tatcool/45060493/42204/42204_original.jpg","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAPfUe95YcDseRWWdgdDqkDvWwc9OC9WU4JA&s", "https://legenda-health-resort-kaji-say.nochi.com/data/Photos/OriginalPhoto/12404/1240411/1240411606/Legenda-Health-Resort-Kaji-Say-Exterior.JPEG"],
+    "videoUrl": "https://www.youtube.com/watch?v=example4",
+    "reviews": [
+      {
+        "author": "Сергей Николаев",
+        "rating": 5,
+        "date": "2023-06-15",
+        "text": {
+          "ru": "Потрясающие закаты и чистейшая вода. Идеальное место для фотографов!",
+          "en": "Amazing sunsets and crystal clear water. Perfect place for photographers!",
+          "kg": "Укмуштуудай күн батыштар жана тунук суу. Сүрөтчүлөр үчүн идеалдуу жер!"
+        }
+      },
+      {
+        "author": "Ольга Морозова",
+        "rating": 4,
+        "date": "2023-07-05",
+        "text": {
+          "ru": "Красивый пляж, но инфраструктура могла бы быть лучше.",
+          "en": "Beautiful beach, but the infrastructure could be better.",
+          "kg": "Кооз жээк, бирок инфраструктура жакшыраак болушу мүмкүн."
+        }
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": {
+      "ru": "Пляж Бостери",
+      "en": "Bosteri Beach",
+      "kg": "Бостери жээги"
+    },
+    "description": {
+      "ru": "Оживленный пляж с множеством водных развлечений и аттракционов для активного отдыха.",
+      "en": "Lively beach with many water activities and attractions for active recreation.",
+      "kg": "Активдүү эс алуу үчүн көптөгөн суу оюн-зооктору жана аттракциондору бар жандуу жээк."
+    },
+    "pricePerDay": 550,
+    "pricePerMonth": 13000,
+    "amenities": [
+      "parking",
+      "restaurants",
+      "showers",
+      "lifeguards",
+      "water_sports",
+      "wifi",
+      "beach_chairs",
+      "water_park"
+    ],
+    "cleanliness": 4.0,
+    "facilities": 4.5,
+    "accessibility": 4.6,
+    "rating": 4.3,
+    "location": {
+      "lat": 42.6494,
+      "lng": 77.1823
+    },
+    "images": ["https://img.tourister.ru/files/1/8/4/7/7/7/9/2/original.jpg", "https://avatars.dzeninfra.ru/get-zen_doc/1654267/pub_64bfc6fbc04f1d71011941c6_64bfc95a8809c82f5bd681fe/smart_crop_516x290", "https://avatars.dzeninfra.ru/get-zen_doc/8116983/pub_640e0dfe16e2f234c98157c4_640e0f6a1f03aa1f1734e2ec/scale_1200"],
+    "videoUrl": "https://www.youtube.com/watch?v=example5",
+    "reviews": [
+      {
+        "author": "Андрей Кузнецов",
+        "rating": 4,
+        "date": "2023-07-20",
+        "text": {
+          "ru": "Отличное место для активного отдыха. Много водных развлечений.",
+          "en": "Great place for active recreation. Many water activities.",
+          "kg": "Активдүү эс алуу үчүн сонун жер. Көптөгөн суу оюн-зооктору."
+        }
+      },
+      {
+        "author": "Наталья Иванова",
+        "rating": 3,
+        "date": "2023-08-10",
+        "text": {
+          "ru": "Слишком шумно и многолюдно, но для любителей активного отдыха подойдет.",
+          "en": "Too noisy and crowded, but suitable for those who like active recreation.",
+          "kg": "Өтө ызы-чуулуу жана көп элдүү, бирок активдүү эс алууну жактыргандар үчүн ылайыктуу."
+        }
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": {
+      "ru": "Пляж Каракол",
+      "en": "Karakol Beach",
+      "kg": "Каракол жээги"
+    },
+    "description": {
+      "ru": "Уединенный пляж вблизи города Каракол с прекрасными видами на горы и чистой водой.",
+      "en": "Secluded beach near the city of Karakol with beautiful mountain views and clean water.",
+      "kg": "Каракол шаарынын жанындагы кооз тоо көрүнүштөрү жана таза суусу менен обочолонгон жээк."
+    },
+    "pricePerDay": 300,
+    "pricePerMonth": 7000,
+    "amenities": ["parking", "restaurants"],
+    "cleanliness": 4.1,
+    "facilities": 3.2,
+    "accessibility": 3.5,
+    "rating": 3.9,
+    "location": {
+      "lat": 42.4907,
+      "lng": 78.3936
+    },
+    "images": ["https://fs.tonkosti.ru/4e/4k/4e4ki5afj7cwgow44804cgw00.jpg", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdy3YJFcO-JMwO6Ai5C5tz3fFIuukQugXhLQ&s", "https://media-cdn.tripadvisor.com/media/photo-s/06/68/b3/3a/caption.jpg"],
+    "videoUrl": "https://www.youtube.com/watch?v=example6",
+    "reviews": [
+      {
+        "author": "Павел Сидоров",
+        "rating": 4,
+        "date": "2023-06-25",
+        "text": {
+          "ru": "Тихое место с потрясающими видами. Идеально для тех, кто ищет уединение.",
+          "en": "Quiet place with amazing views. Perfect for those seeking solitude.",
+          "kg": "Укмуштуудай көрүнүштөрү менен тынч жер. Жалгыздыкты издегендер үчүн идеалдуу."
+        }
+      },
+      {
+        "author": "Екатерина Новикова",
+        "rating": 3,
+        "date": "2023-07-15",
+        "text": {
+          "ru": "Красивый пляж, но мало удобств и развлечений.",
+          "en": "Beautiful beach, but few amenities and entertainment options.",
+          "kg": "Кооз жээк, бирок ыңгайлуулуктар жана оюн-зооктор аз."
+        }
+      }
+    ]
+  }
+]
+

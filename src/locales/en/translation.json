@@ -1,0 +1,212 @@
+{
+  "header": {
+    "logo": "Kyrgyzstan Beaches",
+    "home": "Home",
+    "beaches": "Beaches",
+    "about": "About Kyrgyzstan",
+    "contacts": "Contacts",
+    "search": "Search beaches..."
+  },
+  "footer": {
+    "about": "About Us",
+    "aboutText": "We offer the best beaches in Kyrgyzstan for your perfect vacation. Our team carefully selects and verifies each beach to ensure you have an unforgettable experience.",
+    "quickLinks": "Quick Links",
+    "home": "Home",
+    "beaches": "Beaches",
+    "aboutKyrgyzstan": "About Kyrgyzstan",
+    "contacts": "Contacts",
+    "userLinks": "User Links",
+    "profile": "Profile",
+    "favorites": "Favorites",
+    "cart": "Cart",
+    "login": "Login/Register",
+    "contact": "Contact",
+    "address": "123 Kievskaya St., Bishkek, Kyrgyzstan",
+    "copyright": "Kyrgyzstan Beaches. All rights reserved."
+  },
+  "home": {
+    "hero": {
+      "title": "Discover the Best Beaches in Kyrgyzstan",
+      "subtitle": "Explore the crystal clear waters and scenic landscapes of Lake Issyk-Kul",
+      "exploreButton": "Explore Beaches",
+      "aboutButton": "About Kyrgyzstan",
+      "imageAlt": "Issyk-Kul Beach"
+    },
+    "popularBeaches": {
+      "title": "Popular Beaches",
+      "viewAll": "View All"
+    },
+    "features": {
+      "title": "Why Choose Us",
+      "subtitle": "We offer the best service for your perfect vacation",
+      "quality": {
+        "title": "Verified Quality",
+        "description": "All beaches undergo thorough inspection for cleanliness and service quality"
+      },
+      "convenience": {
+        "title": "Booking Convenience",
+        "description": "Simple booking and payment system for your comfort"
+      },
+      "community": {
+        "title": "Travelers Community",
+        "description": "Join the community of beach vacation enthusiasts"
+      }
+    },
+    "testimonials": {
+      "title": "Customer Testimonials",
+      "subtitle": "Find out what travelers say about us",
+      "about": "about"
+    },
+    "cta": {
+      "title": "Ready for an Unforgettable Vacation?",
+      "subtitle": "Book your perfect beach getaway right now",
+      "button": "Find the Perfect Beach"
+    }
+  },
+  "beaches": {
+    "title": "All Beaches",
+    "filter": {
+      "title": "Filters",
+      "rating": "Rating",
+      "price": "Price",
+      "amenities": "Amenities",
+      "apply": "Apply",
+      "reset": "Reset"
+    },
+    "sort": {
+      "title": "Sort",
+      "popular": "By popularity",
+      "priceAsc": "Price (low to high)",
+      "priceDesc": "Price (high to low)",
+      "rating": "By rating"
+    },
+    "noResults": "No beaches found. Try changing your filter parameters."
+  },
+  "beach": {
+    "price": "Price",
+    "perDay": "per day",
+    "perMonth": "per month",
+    "amenities": "Amenities",
+    "characteristics": {
+      "title": "Characteristics",
+      "cleanliness": "Cleanliness",
+      "facilities": "Facilities",
+      "accessibility": "Accessibility"
+    },
+    "reviews": {
+      "title": "Reviews",
+      "writeReview": "Write a Review",
+      "noReviews": "No reviews yet"
+    },
+    "video": "Video Review",
+    "location": "Location",
+    "addToCart": "Add to Cart",
+    "addToFavorites": "Add to Favorites",
+    "removeFromFavorites": "Remove from Favorites"
+  },
+  "about": {
+    "title": "About Kyrgyzstan",
+    "subtitle": "Discover the country of mountains, lakes, and hospitable people",
+    "geography": {
+      "title": "Geography",
+      "content": "Kyrgyzstan is a mountainous country in Central Asia, known for its majestic Tian Shan mountains and crystal clear Lake Issyk-Kul, the second largest mountain lake in the world."
+    },
+    "culture": {
+      "title": "Culture",
+      "content": "Kyrgyz culture is rich in traditions, music, and crafts. Kyrgyz people are known for their hospitality and nomadic traditions."
+    },
+    "tourism": {
+      "title": "Tourism",
+      "content": "Kyrgyzstan offers diverse tourism opportunities: from beach vacations at Issyk-Kul to mountain hiking, horseback riding, and experiencing nomadic culture."
+    }
+  },
+  "contacts": {
+    "title": "Contacts",
+    "subtitle": "Get in touch with us for more information",
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email",
+    "form": {
+      "title": "Send a Message",
+      "name": "Your Name",
+      "email": "Your Email",
+      "message": "Message",
+      "send": "Send"
+    }
+  },
+  "search": {
+    "title": "Search Results",
+    "subtitle": "Results found: ",
+    "noResults": "No results found for your query. Try changing your search."
+  },
+  "profile": {
+    "title": "Profile",
+    "info": {
+      "title": "Personal Information",
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "save": "Save Changes"
+    },
+    "orders": {
+      "title": "Booking History",
+      "noOrders": "You don't have any bookings yet"
+    },
+    "settings": {
+      "title": "Settings",
+      "language": "Language",
+      "notifications": "Notifications",
+      "save": "Save Settings"
+    },
+    "logout": "Logout"
+  },
+  "favorites": {
+    "title": "Favorites",
+    "empty": "Your favorites list is empty",
+    "removeAll": "Clear Favorites"
+  },
+  "cart": {
+    "title": "Cart",
+    "empty": "Your cart is empty",
+    "total": "Total",
+    "checkout": "Checkout",
+    "continue": "Continue Shopping",
+    "remove": "Remove",
+    "days": "days"
+  },
+  "login": {
+    "title": "Login",
+    "email": "Email",
+    "password": "Password",
+    "login": "Login",
+    "forgotPassword": "Forgot Password?",
+    "noAccount": "Don't have an account?",
+    "register": "Register"
+  },
+  "register": {
+    "title": "Register",
+    "name": "Name",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "register": "Register",
+    "haveAccount": "Already have an account?",
+    "login": "Login"
+  },
+  "amenities": {
+    "parking": "Parking",
+    "restaurants": "Restaurants",
+    "showers": "Showers",
+    "lifeguards": "Lifeguards",
+    "water_sports": "Water Sports",
+    "wifi": "Wi-Fi",
+    "beach_chairs": "Beach Chairs",
+    "water_park": "Water Park"
+  },
+  "currency": "som",
+  "perDay": "per day",
+  "errors": {
+    "failedToLoad": "Failed to load data. Please try again later."
+  }
+}
+
