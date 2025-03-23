@@ -4,8 +4,8 @@ import { useState } from "react"
 import { useNavigate } from "react-router-dom"
 import { useTranslation } from "react-i18next"
 import { useSelector, useDispatch } from "react-redux"
-import { logout, updateProfile } from "../store/slices/userSlice"
-import { setLanguage } from "../store/slices/languageSlice"
+import { logout, updateProfile } from "../../store/slices/userSlice.js"
+import { setLanguage } from "../../store/slices/languageSlice.js"
 import { FaUser, FaEnvelope, FaPhone, FaSignOutAlt, FaGlobe, FaBell } from "react-icons/fa"
 
 const ProfilePage = () => {

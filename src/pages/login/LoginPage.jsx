@@ -4,7 +4,7 @@ import { useState } from "react"
 import { Link, useNavigate } from "react-router-dom"
 import { useTranslation } from "react-i18next"
 import { useDispatch } from "react-redux"
-import { login } from "../store/slices/userSlice"
+import { login } from "../../store/slices/userSlice.js"
 import { FaUser, FaLock, FaEnvelope, FaEye, FaEyeSlash } from "react-icons/fa"
 
 const LoginPage = () => {

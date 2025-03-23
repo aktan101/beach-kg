@@ -4,8 +4,8 @@ import { useState, useEffect } from "react"
 import { useParams, Link } from "react-router-dom"
 import { useTranslation } from "react-i18next"
 import { useSelector, useDispatch } from "react-redux"
-import { addToFavorites, removeFromFavorites } from "../store/slices/favoritesSlice"
-import { addToCart } from "../store/slices/cartSlice"
+import { addToFavorites, removeFromFavorites } from "../../store/slices/favoritesSlice.js"
+import { addToCart } from "../../store/slices/cartSlice.js"
 import { FaStar, FaHeart, FaRegHeart, FaShoppingCart, FaMapMarkerAlt } from "react-icons/fa"
 
 const BeachDetailPage = () => {

@@ -3,7 +3,7 @@
 import { useState } from "react"
 import { useTranslation } from "react-i18next"
 import { useSelector, useDispatch } from "react-redux"
-import { removeFromCart, updateQuantity, clearCart } from "../store/slices/cartSlice"
+import { removeFromCart, updateQuantity, clearCart } from "../../store/slices/cartSlice.js"
 import { Link } from "react-router-dom"
 import { FaShoppingCart, FaTrash, FaMinus, FaPlus } from "react-icons/fa"
 

@@ -3,9 +3,9 @@
 import { useState, useEffect } from "react"
 import { useTranslation } from "react-i18next"
 import { useSelector, useDispatch } from "react-redux"
-import { setFilters, resetFilters } from "../store/slices/beachesSlice"
+import { setFilters, resetFilters } from "../../store/slices/beachesSlice.js"
 import { FaFilter, FaSort, FaStar, FaTimes } from "react-icons/fa"
-import BeachCard from "../components/BeachCard"
+import BeachCard from "../../components/BeachCard.jsx"
 
 const AllBeachesPage = () => {
   const { t, i18n } = useTranslation()

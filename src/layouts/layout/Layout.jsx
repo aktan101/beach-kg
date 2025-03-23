@@ -3,11 +3,11 @@
 import { Outlet } from "react-router-dom"
 import { useEffect } from "react"
 import { useDispatch } from "react-redux"
-import { fetchBeaches } from "../store/slices/beachesSlice"
-import Header from "./Header.jsx"
-import Footer from "./Footer.jsx"
+import { fetchBeaches } from "../../store/slices/beachesSlice.js"
+import Header from "../header/Header.jsx"
+import Footer from "../footer/Footer.jsx"
 
-const MainLayout = () => {
+const Layout = () => {
   const dispatch = useDispatch()
 
   useEffect(() => {
@@ -25,5 +25,5 @@ const MainLayout = () => {
   )
 }
 
-export default MainLayout
+export default Layout
 

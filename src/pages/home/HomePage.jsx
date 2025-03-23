@@ -5,7 +5,7 @@ import { Link } from "react-router-dom"
 import { useTranslation } from "react-i18next"
 import { useSelector } from "react-redux"
 import { FaArrowRight, FaStar } from "react-icons/fa"
-import BeachCard from "../components/BeachCard"
+import BeachCard from "../../components/BeachCard.jsx"
 
 const HomePage = () => {
   const { t, i18n } = useTranslation()

@@ -2,10 +2,10 @@
 
 import { useTranslation } from "react-i18next"
 import { useSelector, useDispatch } from "react-redux"
-import { clearFavorites } from "../store/slices/favoritesSlice"
+import { clearFavorites } from "../../store/slices/favoritesSlice.js"
 import { Link } from "react-router-dom"
 import { FaHeart, FaTrash } from "react-icons/fa"
-import BeachCard from "../components/BeachCard"
+import BeachCard from "../../components/BeachCard.jsx"
 
 const FavoritesPage = () => {
   const { t } = useTranslation()

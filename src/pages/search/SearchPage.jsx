@@ -4,9 +4,9 @@ import { useState, useEffect } from "react"
 import { useLocation } from "react-router-dom"
 import { useTranslation } from "react-i18next"
 import { useSelector, useDispatch } from "react-redux"
-import { searchBeaches } from "../store/slices/beachesSlice"
+import { searchBeaches } from "../../store/slices/beachesSlice.js"
 import { FaSearch } from "react-icons/fa"
-import BeachCard from "../components/BeachCard"
+import BeachCard from "../../components/BeachCard.jsx"
 
 const SearchPage = () => {
   const { t, i18n } = useTranslation()

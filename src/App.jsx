@@ -5,19 +5,19 @@ import i18n from "./i18n"
 import { store } from "./store"
 
 // Layouts
-import MainLayout from "./layouts/MainLayout"
+import Layout from "./layouts/layout/Layout.jsx"
 
 // Pages
-import HomePage from "./pages/HomePage"
-import AllBeachesPage from "./pages/AllBeachesPage"
-import AboutKyrgyzstan from "./pages/AboutKyrgyzstan"
-import ContactsPage from "./pages/ContactsPage"
-import SearchPage from "./pages/SearchPage"
-import ProfilePage from "./pages/ProfilePage"
-import FavoritesPage from "./pages/FavoritesPage"
-import CartPage from "./pages/CartPage"
-import LoginPage from "./pages/LoginPage"
-import BeachDetailPage from "./pages/BeachDetailPage"
+import HomePage from "./pages/home/HomePage.jsx"
+import AllBeachesPage from "./pages/beaches/AllBeachesPage.jsx"
+import AboutKyrgyzstan from "./pages/about/AboutKyrgyzstan.jsx"
+import ContactsPage from "./pages/contact/ContactsPage.jsx"
+import SearchPage from "./pages/search/SearchPage.jsx"
+import ProfilePage from "./pages/profil-user/ProfilePage.jsx"
+import FavoritesPage from "./pages/favorite/FavoritesPage.jsx"
+import CartPage from "./pages/cart/CartPage.jsx"
+import LoginPage from "./pages/login/LoginPage.jsx"
+import BeachDetailPage from "./pages/beach-detail/BeachDetailPage.jsx"
 
 function App() {
   return (
@@ -25,7 +25,7 @@ function App() {
       <I18nextProvider i18n={i18n}>
         <Router>
           <Routes>
-            <Route path="/" element={<MainLayout />}>
+            <Route path="/" element={<Layout />}>
               <Route index element={<HomePage />} />
               <Route path="beaches" element={<AllBeachesPage />} />
               <Route path="beaches/:id" element={<BeachDetailPage />} />
